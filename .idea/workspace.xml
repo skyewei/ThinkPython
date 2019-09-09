@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7f0085-8cb5-43c8-a91c-5adbb83fd609" name="Default Changelist" comment="提交文件">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter10_list-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter11_dict-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter1_dict-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10_list.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11_dict.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter9_wordgame-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter9_wordgame-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter9_wordgame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9_wordgame.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,20 +17,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ThinkPython" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,14 +52,17 @@
         <option value="$PROJECT_DIR$/Chapter4.py" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/templates.py" />
+        <option value="$PROJECT_DIR$/lizhi.py" />
+        <option value="$PROJECT_DIR$/chapter1_dict.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="5" />
-    <option name="y" value="35" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="y" value="7" />
     <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="height" value="1063" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,7 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Jupyter Notebook.ThinkPython">
     <configuration name="ThinkPython" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="ThinkPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,20 +269,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="2" y="6" width="1552" height="850" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20211361" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.20184697" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.20211361" />
+      <window_info id="Favorites" order="2" sideWeight="0.5013405" side_tool="true" weight="0.20211361" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34048256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5147453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3163539" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.28016084" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5944518" weight="0.5563003" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3605898" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.5944518" visible="true" weight="0.5557103" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.40554821" side_tool="true" weight="0.5563003" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.36595175" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -295,6 +311,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -434,8 +464,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="792">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates.py" />
+    <entry file="file://$PROJECT_DIR$/lizhi.py" />
+    <entry file="file://$PROJECT_DIR$/chapter10_list.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11_dict.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
