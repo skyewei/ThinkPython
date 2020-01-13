@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7f0085-8cb5-43c8-a91c-5adbb83fd609" name="Default Changelist" comment="提交文件">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter10_list-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter11_dict-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter1_dict-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10_list.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11_dict.ipynb" afterDir="false" />
+    <list default="true" id="9b7f0085-8cb5-43c8-a91c-5adbb83fd609" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter12_tuple-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter4_4.3-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/hist_test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/readme-checkpoint.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/words-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassObject/Ex15_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassObject/chapter15_BasedLearn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12_tuple.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hist_test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter9_wordgame-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter9_wordgame-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9_wordgame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9_wordgame.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/chapter10_list-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter10_list-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/chapter11_dict-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/chapter11_dict-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassObject/.idea/ClassObject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassObject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassObject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassObject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassObject/BasedLearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ClassObject/.ipynb_checkpoints/BasedLearn-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function04_0205/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function04_0205/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function04_0205/.idea/p0205.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function04_0205/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function04_0205/turtle_study05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4_turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10_list.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter10_list.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11_dict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter11_dict.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6_exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9_count_number_of_avoid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +42,47 @@
     <favorites_list name="ThinkPython" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassObject/chapter15_BasedLearn.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassObject/chapter16_Class_Function.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassObject/chapter17_Class_method.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,12 +97,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chapter9_count_number_of_avoid.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/chapter0.ipynb" />
         <option value="$PROJECT_DIR$/Function04_0205/turtle_study05.py" />
         <option value="$PROJECT_DIR$/chapter4_4.3.py" />
@@ -55,14 +115,16 @@
         <option value="$PROJECT_DIR$/templates.py" />
         <option value="$PROJECT_DIR$/lizhi.py" />
         <option value="$PROJECT_DIR$/chapter1_dict.ipynb" />
+        <option value="$PROJECT_DIR$/chapter9_count_number_of_avoid.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="7" />
-    <option name="width" value="1940" />
-    <option name="height" value="1063" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-210" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,6 +143,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,6 +151,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODELan\Python\ThinkPython" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CODELan\Python\ThinkPython" />
     </key>
@@ -105,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jupyter Notebook.ThinkPython">
+  <component name="RunManager" selected="Python.test">
     <configuration name="ThinkPython" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="ThinkPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="D:\CODELan\Python\ThinkPython\chapter9_count_number_of_avoid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564223967212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交chapter10,11文件">
+      <created>1567992723715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567992723715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -269,22 +341,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="6" width="1552" height="850" extended-state="0" />
+    <frame x="-1928" y="-210" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.20184697" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.16965227" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.20211361" />
       <window_info id="Favorites" order="2" sideWeight="0.5013405" side_tool="true" weight="0.20211361" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5147453" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23284823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3163539" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3605898" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.5944518" visible="true" weight="0.5557103" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23492724" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5944518" weight="0.17828418" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.40554821" side_tool="true" weight="0.5563003" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.36595175" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.35862786" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -332,7 +405,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交文件" />
+    <MESSAGE value="提交chapter10,11文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交chapter10,11文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chapter0.ipynb" />
@@ -340,16 +414,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Function04_0205/turtle_study05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,32 +432,11 @@
         <state relative-caret-position="-2965" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassObject/BasedLearn.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/grid (1).py" />
     <entry file="file://$PROJECT_DIR$/chapter3_function.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2_var_exp_sta.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1_FirstTry.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
         </state>
       </provider>
     </entry>
@@ -415,16 +458,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -455,20 +488,6 @@
     <entry file="file://$PROJECT_DIR$/words.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates.py" />
     <entry file="file://$PROJECT_DIR$/lizhi.py" />
     <entry file="file://$PROJECT_DIR$/chapter10_list.ipynb">
@@ -482,6 +501,94 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hist_test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2_var_exp_sta.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1_FirstTry.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4_turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3036">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassObject/chapter15_BasedLearn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassObject/chapter16_Class_Function.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassObject/chapter17_Class_method.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9_count_number_of_avoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#59#138#0" />
+            <element signature="e#152#572#0" />
+            <element signature="e#242#524#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

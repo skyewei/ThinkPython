@@ -1,6 +1,7 @@
 ## 9.3对每个字母找到avoids的数量
 
 def avoids(word, letter):
+    """ 判断一个单词中是否出现 禁止的单词！"""
     for i in word:
         if i == letter:
             return False
@@ -8,7 +9,7 @@ def avoids(word, letter):
 
 
 def main():
-    fin = open('test.txt')
+    fin = open('avoid.txt')
     print(fin)
     for x in range(ord('a'), ord('e') + 1):
         letter = chr(x)
